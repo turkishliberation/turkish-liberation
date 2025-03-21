@@ -1,0 +1,153 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Minimalist Communique Page</title>
+  <style>
+    body {
+      font-family: sans-serif;
+      margin: 0;
+      padding: 1rem;
+      line-height: 1.6;
+      max-width: 800px;
+      margin: auto;
+      background-color: #121212;
+      color: #f0f0f0;
+    }
+    h1, h2 {
+      margin-bottom: 0.5rem;
+    }
+    .highlight {
+      background-color: #C8102E;
+      padding: 0.1rem 0.25rem;
+      border-radius: 4px;
+      display: inline;
+    }
+    .source-section {
+      background-color: #1e1e1e;
+      border: 1px solid #333;
+      padding: 1rem;
+      margin-top: 0.5rem;
+      border-radius: 6px;
+    }
+    .source-button {
+      background-color: #333;
+      color: #fff;
+      padding: 0.5rem 1rem;
+      border: none;
+      border-radius: 4px;
+      cursor: pointer;
+      margin-top: 0.5rem;
+    }
+    .source-list {
+      display: none;
+      margin-top: 0.5rem;
+    }
+    section {
+      margin-bottom: 2rem;
+    }
+    .share-buttons button {
+      margin: 0.25rem;
+      background-color: #444;
+      color: white;
+      border: none;
+      padding: 0.5rem 1rem;
+      border-radius: 4px;
+      cursor: pointer;
+    }
+    .qr-code {
+      text-align: center;
+      margin-top: 2rem;
+    }
+    a {
+      color: #7abfff;
+    }
+  </style>
+</head>
+<body>
+  <h1 id="title">Your Title Here</h1>
+  <section id="main-communique">
+    <p>This is the <span class="highlight">main communique</span>. It can be highlighted and linked to directly.</p>
+  </section>
+
+  <section id="claims">
+    <article id="claim-1">
+      <h2><a href="#claim-1">Claim 1</a></h2>
+      <p>This is the content of <span class="highlight">Claim 1</span>.</p>
+      <button class="source-button" onclick="toggleSources('sources-1')">Show Sources</button>
+      <div id="sources-1" class="source-list source-section">
+        <ul>
+          <li><a href="#">Source 1</a></li>
+          <li><a href="#">Source 2</a></li>
+        </ul>
+      </div>
+    </article>
+
+    <article id="claim-2">
+      <h2><a href="#claim-2">Claim 2</a></h2>
+      <p>This is the content of <span class="highlight">Claim 2</span>.</p>
+      <button class="source-button" onclick="toggleSources('sources-2')">Show Sources</button>
+      <div id="sources-2" class="source-list source-section">
+        <ul>
+          <li><a href="#">Source A</a></li>
+          <li><a href="#">Source B</a></li>
+        </ul>
+      </div>
+    </article>
+    <!-- Add more claims by duplicating the above block -->
+  </section>
+
+  <section id="also-see">
+    <h2>Also see / Also support</h2>
+    <ul>
+      <li><a href="#">Related Link 1</a></li>
+      <li><a href="#">Related Link 2</a></li>
+    </ul>
+  </section>
+
+  <section id="share">
+    <h2>Share this page</h2>
+    <div class="share-buttons">
+      <button onclick="shareTo('facebook')">Share on Facebook</button>
+      <button onclick="shareTo('twitter')">Share on Twitter</button>
+      <button onclick="shareTo('linkedin')">Share on LinkedIn</button>
+    </div>
+    <div class="qr-code">
+      <p>Scan to visit:</p>
+      <img src="https://api.qrserver.com/v1/create-qr-code/?data=https://your-site-url.com&size=150x150" alt="QR Code" />
+    </div>
+  </section>
+
+  <script>
+    function toggleSources(id) {
+      const element = document.getElementById(id);
+      if (element.style.display === 'block') {
+        element.style.display = 'none';
+      } else {
+        element.style.display = 'block';
+      }
+    }
+
+    function shareTo(platform) {
+      const url = encodeURIComponent(window.location.href);
+      const text = encodeURIComponent(document.title);
+      let shareUrl = '';
+
+      switch (platform) {
+        case 'facebook':
+          shareUrl = `https://www.facebook.com/sharer/sharer.php?u=${url}`;
+          break;
+        case 'twitter':
+          shareUrl = `https://twitter.com/intent/tweet?url=${url}&text=${text}`;
+          break;
+        case 'linkedin':
+          shareUrl = `https://www.linkedin.com/shareArticle?mini=true&url=${url}&title=${text}`;
+          break;
+      }
+
+      window.open(shareUrl, '_blank');
+    }
+  </script>
+</body>
+</html>
