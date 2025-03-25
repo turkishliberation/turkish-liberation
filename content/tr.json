@@ -1,0 +1,98 @@
+{
+  "title": "19 Mart Türkiye Protestoları",
+  "main": "Türkiye'deki otoriter Erdoğanist rejim, 19 Mayıs 2025 tarihinde İstanbul Belediye Başkanı Ekrem İmamoğlu'nu tutukladı. İmamoğlu'nun gizli tanık iddiaları ile tutuklanması ile birlikte Türk demokrasisi AKP ve işbirlikçileri tarafından darbeye uğramış oldu.",
+  "claims": [
+    {
+      "title": "İktidarın sandık korkusu, ve Erdoğan'ın hukuksuz adaylığı",
+      "description": "CHP ve diğer muhalefet partileri 2024 belediye seçimlerinde AKP'den daha fazla oy aldı ve bu da erken seçim çağrısında bulunmalarına olanak tanıdı.",
+      "sources": [
+        {
+          "text": "BBC Makalesi: Yerel seçim zaferi",
+          "url": "https://www.bbc.co.uk/news/world-europe-68704375"
+        },
+        {
+          "text": "Muhalefetin cumhurbaşkanı adayı hapse atıldı",
+          "url": "https://www.aljazeera.com/news/2025/3/24/jailed-imamoglu-elected-turkish-oppositions-presidential-candidate"
+        }
+      ]
+    },
+    {
+      "title": "İmamoğlu Tutuklandı",
+      "description": "İmamoğlu, terör örgütlerine yardım ve belediye kaynaklarını kötüye kullanmak suçlamalarıyla gözaltına alındı. 'Gizli tanık' ifadeleri hariç elle tutulur bir kanıt hükümet tarafından öne sürülemedi.",
+      "sources": [
+        {
+          "text": "Imamoğlu hapiste",
+          "url": "https://www.bbc.co.uk/news/articles/c0egjvj8vdro"
+        },
+        {
+          "text": "AKP'nin adaletsiz adaleti",
+          "url": "https://theconversation.com/the-peculiar-turkish-corruption-issue-behind-istanbul-mayors-arrest-and-how-it-became-a-tool-of-political-oppression-252933"
+        },
+        {
+          "text": "Erdoğan rakibini sahada istemiyor",
+          "url": "https://www.the-independent.com/news/world/europe/recep-tayyip-erdogan-ekrem-imamoglu-istanbul-turkish-ankara-b2717913.html"
+        } 
+      ]
+    },
+    {
+      "title": "Hükümet Terör ile Kucaklaşıyor",
+      "description": "AKP, Kürt destekli DEM Partisi ve PKK lideri Öcalan ile işbirliği yaparak İmamoğlu'na karşı tutumlarında çelişki göstermektedir. Son günlerde hükümet karşıtı protestolarda polis olağandışı şiddet kullanıp, ülkenin bütünlüğünü tehdit eden terörizm gösterilerine müsamaha göstermektedir.",
+      "sources": [
+        {
+          "text": "Uluslararası Terör örgütleri listesi",
+          "url": "https://www.state.gov/foreign-terrorist-organizations/"
+        },
+        {
+          "text": "Uluslararası Terör örgütleri listesi - PKK özel girdisi",
+          "url": "https://www.dni.gov/nctc/ftos/pkk_fto.html"
+        },
+        {
+          "text": "PKK destekçisi DEM parti Erdoğan ile görüşüyor",
+          "url": "https://www.turkishminute.com/2025/03/12/pro-kurdish-party-delegation-to-meet-with-erdogan-after-ocalans-call22/"
+        },
+        {
+          "text": "İstanbulda PKK gösterileri serbest, muhalif protesto yasak",
+          "url": "https://anfenglishmobile.com/news/newroz-celebration-in-istanbul-kicks-off-78536"
+        }
+      ]
+    },
+    {
+      "title": "AKP Yolsuzlukları",
+      "description": "AKP, 23 yıllık iktidarı boyunca birçok skandala karıştı, devlet fonlarını kötüye kullandı, cumhuriyetin kuruluş ilkelerine ve anayasaya defalarca ihanet etti.",
+      "sources": [
+        {
+          "text": "128 Milyon TL nerede?",
+          "url": "https://sendika.org/2021/04/asking-where-the-missing-128-billion-dollars-from-the-treasury-is-considered-an-insult-to-the-president-in-turkey-614392"
+        },
+        {
+          "text": "AKP kara para aklama skandalı",
+          "url": "https://foreignpolicy.com/2015/01/06/why-turkeys-mother-of-all-corruption-scandals-refuses-to-go-away/"
+        },
+        {
+          "text": "Yandaş şirketler ile ilgili haber",
+          "url": "https://www.duvarenglish.com/the-gang-of-five-nepotism-corruption-and-tender-rigging-in-erdogans-turkey-news-56200"
+        }
+      ]
+    }
+  ],
+  "also_see": 
+  [
+    {
+      "text": "",
+      "url": ""
+    },
+    {
+      "text": "",
+      "url": ""
+    }
+  ],
+  "slogan": [
+    "Vatanın bekası şahsi bir meseledir", 
+    "Ne mutlu Türk'üm diyene!"
+  ],
+  "labels": {
+    "also_see": "İlgili Bağlantılar / Destek Olun",
+    "share": "Sayfayı Paylaş",
+    "qr_code": "Bu sayfanın QR kodu:"
+  }
+}

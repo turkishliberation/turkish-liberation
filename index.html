@@ -1,0 +1,93 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Türkiye Protests</title>
+  <link rel="icon" type="image/x-icon" href="/images/favicon.png">
+  <link rel="stylesheet" href="css/styles.css" />
+</head>
+<body>
+  <div class="language-select">
+    <button onclick="setLanguage('tr')" aria-label="Türkçe">
+      <img src="images/tr.png" alt="Türkçe" width="80" height="45" />
+    </button>
+    <button onclick="setLanguage('en')" aria-label="English">
+      <img src="images/en.png" alt="English" width="80" height="45" />
+    </button>
+  </div>
+
+  <h1 id="title"></h1>
+  <section id="main">
+    <p id="main"></p>
+  </section>
+
+  <section id="claims">
+    <article id="claim-1">
+      <h2></h2>
+      <p></p>
+      <button class="source-button" onclick="toggleSources('sources-1')">Show Sources</button>
+      <div id="sources-1" class="source-list source-section">
+        <ul>
+          <li><a href="#">Source 1</a></li>
+          <li><a href="#">Source 2</a></li>
+        </ul>
+      </div>
+    </article>
+    <article id="claim-2">
+      <h2></h2>
+      <p></p>
+      <button class="source-button" onclick="toggleSources('sources-2')">Show Sources</button>
+      <div id="sources-2" class="source-list source-section">
+        <ul>
+          <li><a href="#">Source A</a></li>
+          <li><a href="#">Source B</a></li>
+        </ul>
+      </div>
+    </article>
+    <article id="claim-3">
+      <h2></h2>
+      <p></p>
+      <button class="source-button" onclick="toggleSources('sources-3')">Show Sources</button>
+      <div id="sources-3" class="source-list source-section">
+        <ul>
+          <li><a href="#">Source A</a></li>
+          <li><a href="#">Source B</a></li>
+        </ul>
+      </div>
+    </article>
+    <article id="claim-4">
+      <h2></h2>
+      <p></p>
+      <button class="source-button" onclick="toggleSources('sources-4')">Show Sources</button>
+      <div id="sources-4" class="source-list source-section">
+        <ul>
+          <li><a href="#">Source A</a></li>
+          <li><a href="#">Source B</a></li>
+        </ul>
+      </div>
+    </article>
+  </section>
+  <section id="slogan" class="slogan-section">
+    <h2 class="slogan-text"></h2>
+  </section>
+  <section id="also-see">
+    <h2>Also see / Also support</h2>
+    <ul id="also-see-links"></ul>
+  </section>
+
+  <section id="share">
+    <h2>Share this page</h2>
+    <div class="share-buttons">
+      <button onclick="shareTo('facebook')">Facebook</button>
+      <button onclick="shareTo('twitter')">Twitter</button>
+      <button onclick="shareTo('linkedin')">LinkedIn</button>
+    </div>
+    <div id="qr-code" class="qr-code">
+      <p>QR code for this website:</p>
+      <img src="" alt="QR Code" />
+    </div>
+  </section>
+  <script src="js/scripts.js"></script>
+</body>
+</html>

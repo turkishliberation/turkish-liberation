@@ -1,0 +1,88 @@
+
+body {
+  font-family: sans-serif;
+  margin: 0;
+  padding: 1rem;
+  line-height: 1.6;
+  max-width: 800px;
+  margin: auto;
+  background-color: #121212;
+  color: #f0f0f0;
+}
+h1, h2 {
+  margin-bottom: 0.5rem;
+}
+.highlight {
+  background-color: #C8102E;
+  padding: 0.1rem 0.25rem;
+  border-radius: 4px;
+  display: inline;
+}
+.source-section {
+  background-color: #1e1e1e;
+  border: 1px solid #333;
+  padding: 1rem;
+  margin-top: 0.5rem;
+  border-radius: 6px;
+}
+.source-button {
+  background-color: #333;
+  color: #fff;
+  padding: 0.5rem 1rem;
+  border: none;
+  border-radius: 4px;
+  cursor: pointer;
+  margin-top: 0.5rem;
+}
+.source-list {
+  display: none;
+  margin-top: 0.5rem;
+}
+section {
+  margin-bottom: 2rem;
+}
+.share-buttons button {
+  margin: 0.25rem;
+  background-color: #444;
+  color: white;
+  border: none;
+  padding: 0.5rem 1rem;
+  border-radius: 4px;
+  cursor: pointer;
+}
+.qr-code {
+  text-align: center;
+  margin-top: 2rem;
+}
+a {
+  color: #7abfff;
+}
+.language-select {
+  margin-bottom: 1rem;
+}
+.language-select button {
+  background: none;
+  border: none;
+  cursor: pointer;
+  margin-right: 0.5rem;
+}
+
+.language-select img {
+  border: 2px solid transparent;
+  border-radius: 4px;
+}
+
+.language-select img:hover {
+  border-color: #fff;
+}
+
+.slogan-section {
+  text-align: center;
+  margin: 4rem 0 2rem;
+}
+
+.slogan-text {
+  font-size: 2rem;
+  font-weight: bold;
+  color: #FF5F5F;
+}
