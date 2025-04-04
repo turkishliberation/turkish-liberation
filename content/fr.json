@@ -1,0 +1,103 @@
+{
+  "title": "Manifestations du 19 mars en Turquie ",
+  "main": "Le 19 mars 2025, le régime autoritaire d'Erdogan en Turquie a arrêté le maire d'Istanbul Ekrem Imamoğlu. Avec cette arrestation sur des allégations de témoins secrets, la démocratie turque a été frappée par l'AKP (Parti de la justice et du développement) et ses collaborateurs.",
+  "claims": [
+    {
+      "title": "La peur des urnes électorale du parti au pouvoir et la candidature illégale d'Erdoğan",
+      "description": "Le CHP (Parti républicain du peuple) et d'autres partis d'opposition ont obtenu plus de voix que l'AKP lors des élections municipales de 2024, ce qui leur permet de demander des élections anticipées. Si des élections sont organisées, la candidature d'Erdogan serait inconstitutionnelle.",
+      "sources": [
+        {
+          "text": "Article de la BBC : Victoire aux élections locales",
+          "url": "https://www.bbc.co.uk/news/world-europe-68704375"
+        },
+        {
+          "text": "Le candidat à la présidence de l’opposition emprisonné",
+          "url": "https://www.aljazeera.com/news/2025/3/24/jailed-imamoglu-elected-turkish-oppositions-presidential-candidate"
+        }
+      ]
+    },
+    {
+      "title": "Imamoglu arrêté",
+      "description": "Imamoğlu a été placé en détention sur la base d'accusations d'aide à des organisations terroristes et d'utilisation abusive de ressources municipales. Aucune preuve tangible, à l'exception de déclarations de « témoins secrets », n'a pu être présentée par le gouvernement.",
+      "sources": [
+        {
+          "text": "Imamoglu en prison",
+          "url": "https://www.bbc.co.uk/news/articles/c0egjvj8vdro"
+        },
+        {
+          "text": "La justice injuste de l'AKP",
+          "url": "https://theconversation.com/the-peculiar-turkish-corruption-issue-behind-istanbul-mayors-arrest-and-how-it-became-a-tool-of-political-oppression-252933"
+        },
+        {
+          "text": "Erdoğan ne veut pas de son rival sur le terrain",
+          "url": "https://www.the-independent.com/news/world/europe/recep-tayyip-erdogan-ekrem-imamoglu-istanbul-turkish-ankara-b2717913.html"
+        } 
+      ]
+    },
+    {
+      "title": "Le gouvernement embrasse le terrorisme",
+      "description": "L'AKP, en coopération avec le parti DEM (Parti de l'égalité et de la démocratie des peuples) soutenu par les Kurdes et le leader du PKK Öcalan, est contradictoire dans son attitude à l'égard d'Imamoğlu. Ces derniers jours, la police a fait preuve d'une violence inhabituelle lors des manifestations antigouvernementales et a toléré des manifestations terroristes qui menacent l'intégrité du pays.",
+      "sources": [
+        {
+          "text": "Liste internationale des organisations terroristes",
+          "url": "https://www.state.gov/foreign-terrorist-organizations/"
+        },
+        {
+          "text": "Liste internationale des organisations terroristes - Entrée spéciale PKK",
+          "url": "https://www.dni.gov/nctc/ftos/pkk_fto.html"
+        },
+        {
+          "text": "Le parti DEM qui soutient le PKK rencontre Erdogan",
+          "url": "https://www.turkishminute.com/2025/03/12/pro-kurdish-party-delegation-to-meet-with-erdogan-after-ocalans-call22/"
+        },
+        {
+          "text": "Les manifestations du PKK sont autorisées à Istanbul, celles de l'opposition sont interdites",
+          "url": "https://anfenglishmobile.com/news/newroz-celebration-in-istanbul-kicks-off-78536"
+        }        
+        
+      ]
+    },
+    {
+      "title": "Corruption de l'AKP",
+      "description": "Au cours de ses 23 années au pouvoir, l'AKP a été impliqué dans de nombreux scandales, a détourné des fonds publics et a trahi les principes fondateurs de la république et de la constitution à de nombreuses reprises.",
+      "sources": [
+        {
+          "text": "Où sont passés les 128 millions de dollars ?",
+          "url": "https://sendika.org/2021/04/asking-where-the-missing-128-billion-dollars-from-the-treasury-is-considered-an-insult-to-the-president-in-turkey-614392"
+        },
+        {
+          "text": "Le scandale du blanchiment d'argent de l'AKP",
+          "url": "https://foreignpolicy.com/2015/01/06/why-turkeys-mother-of-all-corruption-scandals-refuses-to-go-away/"
+        },
+        {
+          "text": "Nouvelles des entreprises partisanes",
+          "url": "https://www.duvarenglish.com/the-gang-of-five-nepotism-corruption-and-tender-rigging-in-erdogans-turkey-news-56200"
+        }
+      ]
+    }
+  ],
+  "also_see": [
+    {
+      "text": "Nouvelles sur le boycott des entreprises pro-AKP",
+      "url": "https://www.turkishminute.com/2025/03/25/turkeys-opposition-targets-pro-govt-businesses-with-boycott4/"
+    }
+  ],
+  "slogan": [
+    "Vive la République Turque !", 
+    "Sic Semper Tyrannis"
+  ],
+  "translator_credits":[
+    "Aytaç Korel Pehlivanoğlu - Nederlands",
+    "Federico Sironi - Italiano",
+    "Антонио Димески - македонски",
+    "5t1bium - Español",
+    "Rosetta Mohammad - عربي"
+  ],
+  "labels": {
+    "also_see": "Voir aussi / Pour soutenir",
+    "share": "Partager la page",
+    "qr_code": "Un QR-code :",
+    "translators": "Traducteurs",
+    "show_sources": "Afficher les sources"
+  }
+}

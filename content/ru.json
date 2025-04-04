@@ -1,0 +1,103 @@
+{
+  "title": "Протесты Турции 19 марта",
+  "main": "Авторитарный режим Эрдогана в Турции арестовал мэра Стамбула, Экрема Имамоглу, 19 марта 2025 года. Имамоглу — популярный политик главной оппозиционной партии ЖХП и был ожидаемым кандидатом на пост президента от этой партии.",
+  "claims": [
+    {
+      "title": "Оппозиционная партия победила на местных выборах",
+      "description": "ЖХП и другие оппозиционные партии набрали больше голосов, чем AKП, на выборах мэра в 2024 году, что позволило ЖХП требовать проведения досрочных выборов президента с Имамоглу в качестве кандидата. AKП планирует выдвинуть Эрдогана в качестве кандидата, что противоречит Конституции Турции.",
+      "sources": [
+        {
+          "text": "Доклад BBC о местных выборах",
+          "url": "https://www.bbc.co.uk/news/world-europe-68704375"
+        },
+        {
+          "text": "Имамоглу — соперник Эрдогана на выборах",
+          "url": "https://www.aljazeera.com/news/2025/3/24/jailed-imamoglu-elected-turkish-oppositions-presidential-candidate"
+        }
+      ]
+    },
+    {
+      "title": "Арест Имамоглу",
+      "description": "Турецкая полиция задержала Имамоглу по обвинениям в помощи террористическим группам и незаконном использовании городских ресурсов. Правительство не смогло предоставить никаких доказательств или свидетелей, кроме «секретных свидетельских показаний».",
+      "sources": [
+        {
+          "text": "Статья BBC об аресте Имамоглу",
+          "url": "https://www.bbc.co.uk/news/articles/c0egjvj8vdro"
+        },
+        {
+          "text": "Неравное применение закона партией АКП",
+          "url": "https://theconversation.com/the-peculiar-turkish-corruption-issue-behind-istanbul-mayors-arrest-and-how-it-became-a-tool-of-political-oppression-252933"
+        },
+        {
+          "text": "Эрдоган подрывает своего соперника",
+          "url": "https://www.the-independent.com/news/world/europe/recep-tayyip-erdogan-ekrem-imamoglu-istanbul-turkish-ankara-b2717913.html"
+        } 
+      ]
+    },
+    {
+      "title": "Правительство на стороне террористов",
+      "description": "AKP начало сотрудничать с курдской поддерживаемой партией DEM и лидером РПК, Абдуллом Ёджаланом, что подрывает их позицию против Имамоглу и предает память о тысячах Турецких гражданских лиц, убитых РПК. Они готовятся помиловать лидера РПК, чтобы укрепить свою позицию среди курдских избирателей. Поддерживаемые правительством полиция и прокуроры жестко реагируют на протестующих против Эрдоганизма, одновременно защищая и поддерживая боевиков РПК на митингах партии DEM.",
+      "sources": [
+        {
+          "text": "Список иностранных террористических организаций Государства США",
+          "url": "https://www.state.gov/foreign-terrorist-organizations/"
+        },
+        {
+          "text": "Список иностранных террористических организаций Национальной разведки США — РПК",
+          "url": "https://www.dni.gov/nctc/ftos/pkk_fto.html"
+        },
+        {
+          "text": "Партия DEM готовится к встрече с Эрдоганом, протянута рука террористическому лидеру",
+          "url": "https://www.turkishminute.com/2025/03/12/pro-kurdish-party-delegation-to-meet-with-erdogan-after-ocalans-call22/"
+        },
+        {
+          "text": "Правительство разрешает празднования в поддержку РПК и Ёджалана в Стамбуле, запрещает антиправительственные протесты",
+          "url": "https://anfenglishmobile.com/news/newroz-celebration-in-istanbul-kicks-off-78536"
+        }        
+        
+      ]
+    },
+    {
+      "title": "Коррупция AKП",
+      "description": "AKП участвует в многочисленных скандалах последние 23 года, неправомерно распоряжаясь государственными средствами и игнорируя Конституцию Турции.",
+      "sources": [
+        {
+          "text": "Потери составили как минимум 128 миллиардов долларов",
+          "url": "https://sendika.org/2021/04/asking-where-the-missing-128-billion-dollars-from-the-treasury-is-considered-an-insult-to-the-president-in-turkey-614392"
+        },
+        {
+          "text": "Партия АКП связана с схемой отмывания денег",
+          "url": "https://foreignpolicy.com/2015/01/06/why-turkeys-mother-of-all-corruption-scandals-refuses-to-go-away/"
+        },
+        {
+          "text": "Компании, поддерживаемые Эрдоганом, функционируют без государственного контроля",
+          "url": "https://www.duvarenglish.com/the-gang-of-five-nepotism-corruption-and-tender-rigging-in-erdogans-turkey-news-56200"
+        }
+      ]
+    }
+  ],
+  "also_see": [
+    {
+      "text": "Новости о бойкоте бизнесов AKП",
+      "url": "https://www.turkishminute.com/2025/03/25/turkeys-opposition-targets-pro-govt-businesses-with-boycott4/"
+    }
+  ],
+  "slogan": [
+    "Да здравствует Турецкая Республика!", 
+    "Sic Semper Tyrannis"
+  ],
+  "translator_credits":[
+      "Aytaç Korel Pehlivanoğlu - Nederlands",
+      "Federico Sironi - Italiano",
+      "Антонио Димески - македонски",
+      "5t1bium - Español",
+      "Rosetta Mohammad - عربي"
+    ],
+  "labels": {
+    "also_see": "Также см. / Также поддержите",
+    "share": "Поделитесь этой страницей",
+    "qr_code": "QR-код етой строниццвы:",
+    "translators": "Перевод",
+    "show_sources": "Показать Источники"
+  }
+}

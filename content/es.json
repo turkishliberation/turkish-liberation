@@ -1,0 +1,103 @@
+{
+  "title": "Las protestas del 19 de marzo en Turquía",
+  "main": "El régimen autoritario erdoğanista en Turquía arrestó al alcalde de Estambul, Ekrem İmamoğlu, el 19 de marzo de 2025. İmamoğlu es un altamente popular político del partido opositor CHP (Partido Republicano del Pueblo) y era su candidato presidencial esperado. ",
+  "claims": [
+    {
+      "title": "La Oposición ganó las elecciones locales",
+      "description": "El CHP y los otros partidos de la oposición aseguraron más votos que el AKP (Partido de la Justicia y el Desarrollo) en las elecciones de alcalde del 2024, permitiendo al CHP a impulsar a elecciones anticipadas con İmamoğlu como candidato. El AKP está planeando presentar a Erdogan como su candidato, lo cual está en contra de la Constitución de Turquía.",
+      "sources": [
+        {
+          "text": "Reporte de la BBC sobre las elecciones locales",
+          "url": "https://www.bbc.co.uk/news/world-europe-68704375"
+        },
+        {
+          "text": "İmamoğlu es el rival electoral de Erdogan",
+          "url": "https://www.aljazeera.com/news/2025/3/24/jailed-imamoglu-elected-turkish-oppositions-presidential-candidate"
+        }
+      ]
+    },
+    {
+      "title": "El arresto de İmamoğlu",
+      "description": "La policía turca detuvo a İmamoğlu bajo los cargos de ayudar a grupos terroristas y uso ilegal de los recursos de la ciudad. El gobierno no ha sido capaz de mostrar alguna prueba o testigos que las “declaraciones secretas de testigos”",
+      "sources": [
+        {
+          "text": "Artículo de la BBC sobre el arresto de İmamoğlu",
+          "url": "https://www.bbc.co.uk/news/articles/c0egjvj8vdro"
+        },
+        {
+          "text": "La aplicación desigual de la ley por el AKP",
+          "url": "https://theconversation.com/the-peculiar-turkish-corruption-issue-behind-istanbul-mayors-arrest-and-how-it-became-a-tool-of-political-oppression-252933"
+        },
+        {
+          "text": "Erdogan no quiere a su rival en el campo",
+          "url": "https://www.the-independent.com/news/world/europe/recep-tayyip-erdogan-ekrem-imamoglu-istanbul-turkish-ankara-b2717913.html"
+        } 
+      ]
+    },
+    {
+      "title": "El gobierno se pone de lado de los terroristas",
+      "description": "El AKP ha empezado a cooperar con el partido DEM (Partido Popular por la Igualdad y la Democracia), apoyado por los kurdos, y con el líder de PKK (Partido de los Trabajadores de Kurdistán), Öcalan, socavando su postura contra İmamoğlu y traicionando la memoria de miles de civiles asesinados por el PKK. Esto mientras se preparan para indultar al líder de PKK en un intento de reforzar su posición entre los votantes kurdos. La policía y la fiscalía, respaldadas por el Gobierno, han respondido con mano dura a los manifestantes antierdoganistas, mientras defienden y apoyan a los militantes del PKK en mítines del partido DEM.",
+      "sources": [
+        {
+          "text": "Lista de organizaciones terroristas extranjeras, departamento de Estado de EE. UU.",
+          "url": "https://www.state.gov/foreign-terrorist-organizations/"
+        },
+        {
+          "text": "Lista de organizaciones terroristas extranjeras del Departamento de Inteligencia Nacional de Estados Unidos – PKK.",
+          "url": "https://www.dni.gov/nctc/ftos/pkk_fto.html"
+        },
+        {
+          "text": "El partido DEM se prepara para reunirse con Erdogan, ofrenda de reconciliación con el líder terrorista.",
+          "url": "https://www.turkishminute.com/2025/03/12/pro-kurdish-party-delegation-to-meet-with-erdogan-after-ocalans-call22/"
+        },
+        {
+          "text": "El gobierno permite las celebraciones pro-PKK y pro-Öcalan en Estambul, prohíbe protestas contra el gobierno.",
+          "url": "https://anfenglishmobile.com/news/newroz-celebration-in-istanbul-kicks-off-78536"
+        }        
+        
+      ]
+    },
+    {
+      "title": "Corrupción del AKP",
+      "description": "El AKP ha estado envuelto en numerosos escándalos en los últimos 23 años, malversando los fondos públicos e ignorando la Constitución turca",
+      "sources": [
+        {
+          "text": "Al menos 128 mil millones de dólares perdidos",
+          "url": "https://sendika.org/2021/04/asking-where-the-missing-128-billion-dollars-from-the-treasury-is-considered-an-insult-to-the-president-in-turkey-614392"
+        },
+        {
+          "text": "El AKP conectó dinero a un programa de lavado de dinero",
+          "url": "https://foreignpolicy.com/2015/01/06/why-turkeys-mother-of-all-corruption-scandals-refuses-to-go-away/"
+        },
+        {
+          "text": "Erdogan respaldó a compañías sin la supervisión del gobierno",
+          "url": "https://www.duvarenglish.com/the-gang-of-five-nepotism-corruption-and-tender-rigging-in-erdogans-turkey-news-56200"
+        }
+      ]
+    }
+  ],
+  "also_see": [
+    {
+      "text": "Noticias del AKP boicoteando negocios",
+      "url": "https://www.turkishminute.com/2025/03/25/turkeys-opposition-targets-pro-govt-businesses-with-boycott4/"
+    }
+  ],
+  "slogan": [
+    "Larga vida a la República Turca", 
+    "Sic Semper Tyrannis"
+  ],
+  "translator_credits":[
+      "Aytaç Korel Pehlivanoğlu - Nederlands",
+      "Federico Sironi - Italiano",
+      "Антонио Димески - македонски",
+      "5t1bium - Español",
+      "Rosetta Mohammad - عربي"
+    ],
+  "labels": {
+    "also_see": "Ver también / apoyar también",
+    "share": "Comparte esta página",
+    "qr_code": "Código QR de esta página web:",
+    "translators": "Traductores",
+    "show_sources": "Mostrar fuentes"
+  }
+}

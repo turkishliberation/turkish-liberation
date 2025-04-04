@@ -1,10 +1,10 @@
 {
-  "title": "The 19th of March Türkiye Protests",
-  "main": "The authoritarian Erdoganist regime in Türkiye has arrested the mayor of İstanbul, Ekrem İmamoğlu, on the 19th of March 2025. İmamoğlu is a highly popular politician of the mainline opposition party CHP and was their expected presidential candidate.",
+  "title": "Il 19 Marzo Le proteste in Turchia",
+  "main": "Il regime autoritario di Erdogan in Turchia ha arrestato il sindaco di Istanbul, Ekrem İmamoğlu il 19 Marzo 2025. İmamoğlu è un politico molto popolare del principale partito di opposizione, il CHP ed era il loro potenziale candidato alle presidenziali.",
   "claims": [
     {
-      "title": "The Opposition Party has won the local elections",
-      "description": "CHP and other opposition parties secured more votes than AKP in the 2024 mayoral elections, enabling CHP to push for early elections with İmamoğlu as their candidate. AKP is planning to present Erdogan as their candidate, which is against the Turkish Constitution.",
+      "title": "Il partito di opposizione ha vinto le elezioni locali",
+      "description": "Il CHP e gli altri partiti dell’opposizione hanno ricevuto più voti di AKP alle elezioni del sindaco nel 2024, permettendo al CHP di spingere per delle elezioni anticipate con İmamoğlu come proprio candidato. AKP sta pianificando di presentare Erdogan invece, il che va contro la Costituzione Turca.",
       "sources": [
         {
           "text": "BBC Report on local elections",
@@ -17,8 +17,8 @@
       ]
     },
     {
-      "title": "İmamoğlu Arrested",
-      "description": "Turkish police detained İmamoğlu on charges of aiding terrorist groups and unlawful use of city resources. The government has not been able to provide any proof or witnesses other than 'secret witness testimonies'",
+      "title": "L’arresto di İmamoğlu",
+      "description": "La polizia turca ha arrestato Imamoğlu accusandolo di aver assistito gruppi terroristici e di aver utilizzato le risorse della città in modo illegale. Il governo , però, non è stato in grado di fornire alcuna prova o testimonianza se non quelle di 'testimoni segreti'.",
       "sources": [
         {
           "text": "BBC article on Imamoğlu's arrest",
@@ -35,8 +35,8 @@
       ]
     },
     {
-      "title": "Government Sides With Terrorists",
-      "description": "The AKP has begun cooperating with the Kurdish-backed DEM Party and PKK leader Öcalan, undermining their stance against İmamoğlu and betraying the memory of thousands of civilians killed by PKK. As they prepare to pardon PKK's leader in a bid to strengthen their position amongst kurdish voters. The government backed police and prosecutors have shown heavyhanded responses to the anti-Erdoganist protestors, while defending and supporting PKK militants in DEM Party rallies.",
+      "title": "Il governo si è alleato con terroristi",
+      "description": "AKP ha iniziato a collaborare con il partito DEM, supportato da curdi e il leader del PKK Öcalan, sottolineando la loro posizione contro İmamoğlu e tradendo la memoria di migliaia di civili uccisi dal PKK. Questa mossa è fatta in ottica di perdonare il leader del PKK per ottenere una posizione più forte tra i votanti curdi. La polizia e i pubblici ministeri, supportati dal governo, hanno risposto in modo pesante ai protestanti anti-Erdogan. Nel mentre hanno anche supportato e difeso i militanti del PKK in incontri e manifestazioni del partito DEM.",
       "sources": [
         {
           "text": "US Department of State Foreign Terrorist Organisations List",
@@ -58,8 +58,8 @@
       ]
     },
     {
-      "title": "Corruption of AKP",
-      "description": "The AKP has been involved in numerous scandals over the past 23 years, misusing government funds and disregarding the Turkish constitution.",
+      "title": "La corruzione di AKP ",
+      "description": "AKP è stato coinvolto in numerosi scandali negli scorsi 23 anni, mal utilizzando fondi del governo e violando la Costituzione Turca.",
       "sources": [
         {
           "text": "At least 128 billion dollars lost",
@@ -87,17 +87,17 @@
     "Sic Semper Tyrannis"
   ],
   "translator_credits":[
-      "Aytaç Korel Pehlivanoğlu - Nederlands",
-      "Federico Sironi - Italiano",
-      "Антонио Димески - македонски",
-      "5t1bium - Español",
-      "Rosetta Mohammad - عربي"
-    ],
+    "Aytaç Korel Pehlivanoğlu - Nederlands",
+    "Federico Sironi - Italiano",
+    "Антонио Димески - македонски",
+    "5t1bium - Español",
+    "Rosetta Mohammad - عربي"
+  ],
   "labels": {
     "also_see": "Also see / Also support",
     "share": "Share this page",
     "qr_code": "QR code for this website:",
-    "translators": "Translators",
+    "translators": "Traduttore",
     "show_sources": "Show Sources"
   }
 }

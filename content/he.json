@@ -1,10 +1,10 @@
 {
-  "title": "The 19th of March Türkiye Protests",
-  "main": "The authoritarian Erdoganist regime in Türkiye has arrested the mayor of İstanbul, Ekrem İmamoğlu, on the 19th of March 2025. İmamoğlu is a highly popular politician of the mainline opposition party CHP and was their expected presidential candidate.",
+  "title": "ההפגנות ב-19 במרץ בטורקיה",
+  "main": "הממשל הארדואניסטי האוטוריטרי בטורקיה עצר את ראש עיריית איסטנבול, אקרם אימאמאולו, ב19 במרץ, 2025. אימאמאולו הוא פוליטיקאי פופולרי מאוד ממפלגת האופוזיציה העיקרית - הCHP, והיה צפוי להיות המועמד לנשיאות מטעמם.",
   "claims": [
     {
-      "title": "The Opposition Party has won the local elections",
-      "description": "CHP and other opposition parties secured more votes than AKP in the 2024 mayoral elections, enabling CHP to push for early elections with İmamoğlu as their candidate. AKP is planning to present Erdogan as their candidate, which is against the Turkish Constitution.",
+      "title": "ניצחון מפלגת האופוזיציה בבחירות המקומיות",
+      "description": "ה-CHP ומפלגות אופוזיציה אחרות זכו ביותר קולות מה-AKP בבחירות לרשויות המקומיות ב2024, מה שאיפשר ל-CHP לקדם בחירות מוקדמות עם אימאמאולו בתור מועמד. ה-AKP מתכוונים לבחור בארדואן בתור מועמד, דבר הנוגד את החוקה הטורקית.",
       "sources": [
         {
           "text": "BBC Report on local elections",
@@ -17,8 +17,8 @@
       ]
     },
     {
-      "title": "İmamoğlu Arrested",
-      "description": "Turkish police detained İmamoğlu on charges of aiding terrorist groups and unlawful use of city resources. The government has not been able to provide any proof or witnesses other than 'secret witness testimonies'",
+      "title": "מעצרו של אימאמאולו",
+      "description": "המשטרה הטורקית עצרה את אימאמאולו בגין חשד לתמיכה בארגון טרור ושימוש שלא כחוק במשאבי העירייה. הממשל לא סיפק אף הוכחות או עדויות מלבד 'עדויות מסווגות' ",
       "sources": [
         {
           "text": "BBC article on Imamoğlu's arrest",
@@ -35,8 +35,8 @@
       ]
     },
     {
-      "title": "Government Sides With Terrorists",
-      "description": "The AKP has begun cooperating with the Kurdish-backed DEM Party and PKK leader Öcalan, undermining their stance against İmamoğlu and betraying the memory of thousands of civilians killed by PKK. As they prepare to pardon PKK's leader in a bid to strengthen their position amongst kurdish voters. The government backed police and prosecutors have shown heavyhanded responses to the anti-Erdoganist protestors, while defending and supporting PKK militants in DEM Party rallies.",
+      "title": "הממשלה עומדת לצד טרוריסטים",
+      "description": "ה-AKP התחילו לשתף פעולה עם מפלגת ה-DEM הכורדית, ועבדוללה אוג'אלאן, מנהיג מפלגת ה-PKK, על מנת לערער את עמדתם נגד אימאמאולו, ובאופן שמבזה את זכר אלפי האזרחים שנרצחו בידי ה-PKK. הממשלה מתכוונת להעניק חנינה למנהיג ה-PKK כדי לחזק את מעמדה בקרב המצביעים הכורדים. המשטרה ומערכת אכיפת החוק אשר נמצאות בשליטת הממשל הגיבו להפגנות נגד ארדואן בחוזקה, בעוד שהגנו על פעילי PKK ותמכו בהם בעצרות של מפלגת ה-DEM.",
       "sources": [
         {
           "text": "US Department of State Foreign Terrorist Organisations List",
@@ -58,8 +58,8 @@
       ]
     },
     {
-      "title": "Corruption of AKP",
-      "description": "The AKP has been involved in numerous scandals over the past 23 years, misusing government funds and disregarding the Turkish constitution.",
+      "title": "השחיתות ב-AKP",
+      "description": "ה-AKP הייתה חלק במספר פרשות שחיתות במהלך 23 השנים האחרונות, תוך כדי שימוש לרעה בכספי הציבור והתעלמות מהחוקה הטורקית",
       "sources": [
         {
           "text": "At least 128 billion dollars lost",

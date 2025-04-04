@@ -1,10 +1,10 @@
 {
   "title": "19 Mart Türkiye Protestoları",
-  "main": "Türkiye'deki otoriter Erdoğanist rejim, 19 Mayıs 2025 tarihinde İstanbul Belediye Başkanı Ekrem İmamoğlu'nu tutukladı. İmamoğlu'nun gizli tanık iddiaları ile tutuklanması ile birlikte Türk demokrasisi AKP ve işbirlikçileri tarafından darbeye uğramış oldu.",
+  "main": "Türkiye'deki otoriter Erdoğanist rejim, 19 Mart 2025 tarihinde İstanbul Belediye Başkanı Ekrem İmamoğlu'nu tutukladı. İmamoğlu'nun gizli tanık iddiaları ile tutuklanması ile birlikte Türk demokrasisi AKP ve işbirlikçileri tarafından darbeye uğramış oldu.",
   "claims": [
     {
       "title": "İktidarın sandık korkusu, ve Erdoğan'ın hukuksuz adaylığı",
-      "description": "CHP ve diğer muhalefet partileri 2024 belediye seçimlerinde AKP'den daha fazla oy aldı ve bu da erken seçim çağrısında bulunmalarına olanak tanıdı.",
+      "description": "CHP ve diğer muhalefet partileri 2024 belediye seçimlerinde AKP'den daha fazla oy aldı ve bu da erken seçim çağrısında bulunmalarına olanak tanıdı. Seçim yapıldığı takdirde Erdoğanın adaylığı anayasaya aykırı.",
       "sources": [
         {
           "text": "BBC Makalesi: Yerel seçim zaferi",
@@ -61,7 +61,7 @@
       "description": "AKP, 23 yıllık iktidarı boyunca birçok skandala karıştı, devlet fonlarını kötüye kullandı, cumhuriyetin kuruluş ilkelerine ve anayasaya defalarca ihanet etti.",
       "sources": [
         {
-          "text": "128 Milyon TL nerede?",
+          "text": "128 Milyon Dolar nerede?",
           "url": "https://sendika.org/2021/04/asking-where-the-missing-128-billion-dollars-from-the-treasury-is-considered-an-insult-to-the-president-in-turkey-614392"
         },
         {
@@ -78,21 +78,26 @@
   "also_see": 
   [
     {
-      "text": "",
-      "url": ""
-    },
-    {
-      "text": "",
-      "url": ""
+      "text": "AKP yandaşı firmalara boykot haberi",
+      "url": "https://www.turkishminute.com/2025/03/25/turkeys-opposition-targets-pro-govt-businesses-with-boycott4/"
     }
   ],
   "slogan": [
-    "Vatanın bekası şahsi bir meseledir", 
+    "Vatanın bekası şahsi meselemizdir", 
     "Ne mutlu Türk'üm diyene!"
+  ],
+  "translator_credits":[
+    "Aytaç Korel Pehlivanoğlu - Nederlands",
+    "Federico Sironi - Italiano",
+    "Антонио Димески - македонски",
+    "5t1bium - Español",
+    "Rosetta Mohammad - عربي"
   ],
   "labels": {
     "also_see": "İlgili Bağlantılar / Destek Olun",
     "share": "Sayfayı Paylaş",
-    "qr_code": "Bu sayfanın QR kodu:"
+    "qr_code": "Bu sayfanın QR kodu:",
+    "translators": "Çevirenler",
+    "show_sources": "Kaynakları Göster"
   }
 }

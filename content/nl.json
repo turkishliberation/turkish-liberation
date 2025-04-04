@@ -1,0 +1,103 @@
+{
+    "title": "Turkse protesten op 19 maart",
+    "main": "Het Turkse autoritaire pro-Erdogan regime heeft de burgermeester van Istanbul Ekrem Imamoglu gearresteerd op 19 maart 2025. Imamoglu is een heel populaire politicus van de belangrijkste oppositiepartij CHP (Republikeinse Volkspartij) en was ook de verwachte presidentiële kandidaat voor de partij.",
+    "claims": [
+      {
+        "title": "De oppositie partij heeft de gemeenteraadsverkiezingen gewonnen",
+        "description": "De CHP en andere oppositiepartijen haalde meer stemmen binnen dan de regerende AKP (Partij voor Rechtvaardigheid en Ontwikkeling) in de 2024 gemeenteraadsverkiezingen. Daarmee kon de CHP de AKP onder druk zetten om vroege presidentsverkiezingen te organiseren en Imamoglu als hun kandidaat voorstellen. De AKP wil Erdogan als kandidaat voorstellen, wat tegen de Turkse grondwet is.",
+        "sources": [
+          {
+            "text": "BBC-artikel over de gemeenteraadsverkiezingen",
+            "url": "https://www.bbc.co.uk/news/world-europe-68704375"
+          },
+          {
+            "text": "Imamoglu is Erdogans tegenstander",
+            "url": "https://www.aljazeera.com/news/2025/3/24/jailed-imamoglu-elected-turkish-oppositions-presidential-candidate"
+          }
+        ]
+      },
+      {
+        "title": "Imamoglus arrestatie",
+        "description": "De Turkse politie hield Imamoglu aan op beschuldiging van terreurgroepen te ondersteunen en illegaal gebruik van publieke fondsen. De regering heeft geen enkele bewijs of getuigen behalve zogenaamde ‘geheime getuigenissen’ kunnen voorleggen.",
+        "sources": [
+          {
+            "text": "BBC-artikel over Imamoglus arrestatie",
+            "url": "https://www.bbc.co.uk/news/articles/c0egjvj8vdro"
+          },
+          {
+            "text": "Het verschil van het gebruik van de wet door de AKP-partij",
+            "url": "https://theconversation.com/the-peculiar-turkish-corruption-issue-behind-istanbul-mayors-arrest-and-how-it-became-a-tool-of-political-oppression-252933"
+          },
+          {
+            "text": "Erdogan ondermijnt zijn tegenstander",
+            "url": "https://www.the-independent.com/news/world/europe/recep-tayyip-erdogan-ekrem-imamoglu-istanbul-turkish-ankara-b2717913.html"
+          } 
+        ]
+      },
+      {
+        "title": "De regering werkt samen met terroristen",
+        "description": "De AKP is beginnen samen te werken met de pro-Koerdische DEM-partij (Democratische Partij) en de PKK-leider Öcalan (Koerdische Arbeiderspartij), door hun standpunt tegen Imamoglu te ondermijnen en door de herinnering aan de burgerlijke slachtoffers van de PKK. Terwijl de AKP aan het voorbereiden is om de PKK-leider te verontschuldigen, om AKPs populariteit bij de Koerdische stemmers te versterken, hebben de, door de regering, gesteunde politie en aanklagers hardhandige reacties tegen de anti-Erdogan betogers getoond e de PKK-militanten in DEM-partij bijeenkomsten gesteund.",
+        "sources": [
+          {
+            "text": "Lijst van de terreurorganisaties van de US Department of States",
+            "url": "https://www.state.gov/foreign-terrorist-organizations/"
+          },
+          {
+            "text": "Lijst van buitenlandse terreurorganisaties van de US Derpartment of National Intelligence - PKK",
+            "url": "https://www.dni.gov/nctc/ftos/pkk_fto.html"
+          },
+          {
+            "text": "DEM-partij bereidt zich voort om met Erdogan te ontmoeten, terroristische leiders krijgen een olijftak",
+            "url": "https://www.turkishminute.com/2025/03/12/pro-kurdish-party-delegation-to-meet-with-erdogan-after-ocalans-call22/"
+          },
+          {
+            "text": "Regering laat pro-PKK en pro-Öcalan protesten toe, protesten tegen de heersende macht niet.",
+            "url": "https://anfenglishmobile.com/news/newroz-celebration-in-istanbul-kicks-off-78536"
+          }        
+          
+        ]
+      },
+      {
+        "title": "AKP-corruptie",
+        "description": "De AKP werd bij verschillende schandalen betrokken in de laatste 23 jaar, o.a. misbruik van regeringsfondsen en het niet naleven van de Turkse grondwet.",
+        "sources": [
+          {
+            "text": "Tenminste 128 miljard USD verloren",
+            "url": "https://sendika.org/2021/04/asking-where-the-missing-128-billion-dollars-from-the-treasury-is-considered-an-insult-to-the-president-in-turkey-614392"
+          },
+          {
+            "text": "De AKP-partij is gelinkt aan witwaspraktijken",
+            "url": "https://foreignpolicy.com/2015/01/06/why-turkeys-mother-of-all-corruption-scandals-refuses-to-go-away/"
+          },
+          {
+            "text": "Pro-Erdogan bedrijven werken zonder toezicht van de regering",
+            "url": "https://www.duvarenglish.com/the-gang-of-five-nepotism-corruption-and-tender-rigging-in-erdogans-turkey-news-56200"
+          }
+        ]
+      }
+    ],
+    "also_see": [
+      {
+        "text": "Hoe kan je Pro-Erdogan bedrijven boycotten?",
+        "url": "https://www.turkishminute.com/2025/03/25/turkeys-opposition-targets-pro-govt-businesses-with-boycott4/"
+      }
+    ],
+    "slogan": [
+      "Lang leve de Turkse Republiek", 
+      "Sic Semper Tyrannis"
+    ],
+    "translator_credits":[
+      "Aytaç Korel Pehlivanoğlu - Nederlands",
+      "Federico Sironi - Italiano",
+      "Антонио Димески - македонски",
+      "5t1bium - Español",
+      "Rosetta Mohammad - عربي"
+    ],
+    "labels": {
+      "also_see": "Zie ook",
+      "share": "Deel deze pagina",
+      "qr_code": "QR-code voor deze website:",
+      "translators": "Vertalers",
+      "show_sources": "Bronnen"
+    }
+}

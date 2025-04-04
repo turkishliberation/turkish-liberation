@@ -1,0 +1,103 @@
+{
+    "title": "トルコ三月19日抗議",
+    "main": "エルドアン派の権威主義圧政は野党共和人民党(CHP)の最高評価の党員の一人および野党の大統領候補であるイスタンブール市長イマモール氏を匿名証人の告訴によって19日に逮捕し、トルコの民主主義に汚点を残した。",
+    "claims": [
+      {
+        "title": "与党大敗の不安、エルドアン氏の不法立候補",
+        "description": "CHPも含めて野党が2024自治体選挙で与党のAKPより余程多い投票数を得た成功の結果、野党はイマモール氏を候補者として早期選挙実施を要求する可能性がある。AKPがエルドアン氏を候補者として支持する予定は 憲法違反となります",
+        "sources": [
+          {
+            "text": "BBC記事・自治体選挙",
+            "url": "https://www.bbc.co.uk/news/world-europe-68704375"
+          },
+          {
+            "text": "イマモール氏はエルドアン大統領の政敵に",
+            "url": "https://www.aljazeera.com/news/2025/3/24/jailed-imamoglu-elected-turkish-oppositions-presidential-candidate"
+          }
+        ]
+      },
+      {
+        "title": "イマモール氏の逮捕",
+        "description": "イマモール氏はテロ組織の支持および自治体財源の乱用による汚職容疑で拘留された。匿名証人の告訴以外具体的な証拠は未だに提出されていない。",
+        "sources": [
+          {
+            "text": "イマモール氏の逮捕",
+            "url": "https://www.bbc.co.uk/news/articles/c0egjvj8vdro"
+          },
+          {
+            "text": "AKPの不当裁決",
+            "url": "https://theconversation.com/the-peculiar-turkish-corruption-issue-behind-istanbul-mayors-arrest-and-how-it-became-a-tool-of-political-oppression-252933"
+          },
+          {
+            "text": "エルドアン大統領の政敵の立候補を妨害",
+            "url": "https://www.the-independent.com/news/world/europe/recep-tayyip-erdogan-ekrem-imamoglu-istanbul-turkish-ankara-b2717913.html"
+          } 
+        ]
+      },
+      {
+        "title": "政府とテロリストの同盟",
+        "description": "AKPはクルド人が後援する人民民主党(DEM)とクルディスタン労働者党(PKK)の指導者オジャランと協力し、イマモール氏に対する政府の姿勢に疑問を引き起こした。クルド人の投票を獲得するために何千人のトルコ国民を殺したテロ組織PKKと協力しているAKP党は殉教者を裏切っている。警察機動隊は反政府抗議に対して過度の暴力を使用しているにもかかわらず、トルコ共和国の領土保全に脅威をあたえるテロ支持デモに介入しておりません。",
+        "sources": [
+          {
+            "text": "US Department of State Foreign Terrorist Organisations List",
+            "url": "https://www.state.gov/foreign-terrorist-organizations/"
+          },
+          {
+            "text": "US Department of National Intelligence Foreign Terrorist Organisations List",
+            "url": "https://www.dni.gov/nctc/ftos/pkk_fto.html"
+          },
+          {
+            "text": "PKK支持派のDEM党とエルドアン大統領の会談",
+            "url": "https://www.turkishminute.com/2025/03/12/pro-kurdish-party-delegation-to-meet-with-erdogan-after-ocalans-call22/"
+          },
+          {
+            "text": "イスタンブールにPKKデモ可、反政府抗議不可",
+            "url": "https://anfenglishmobile.com/news/newroz-celebration-in-istanbul-kicks-off-78536"
+          }        
+          
+        ]
+      },
+      {
+        "title": "与党AKPの汚職",
+        "description": "AKP党は23年間の治世中多くの不祥事に関われ、国家資源を乱用し、トルコ共和国の理念と憲法を何回も裏切りつつある。",
+        "sources": [
+          {
+            "text": "1280億ドルの失踪",
+            "url": "https://sendika.org/2021/04/asking-where-the-missing-128-billion-dollars-from-the-treasury-is-considered-an-insult-to-the-president-in-turkey-614392"
+          },
+          {
+            "text": "AKP党資金洗浄事件",
+            "url": "https://foreignpolicy.com/2015/01/06/why-turkeys-mother-of-all-corruption-scandals-refuses-to-go-away/"
+          },
+          {
+            "text": "AKP派企業のニュース",
+            "url": "https://www.duvarenglish.com/the-gang-of-five-nepotism-corruption-and-tender-rigging-in-erdogans-turkey-news-56200"
+          }
+        ]
+      }
+    ],
+    "also_see": [
+      {
+        "text": "AKP派企業のボイコット",
+        "url": "https://www.turkishminute.com/2025/03/25/turkeys-opposition-targets-pro-govt-businesses-with-boycott4/"
+      }
+    ],
+    "slogan": [
+      "トルコ共和国万歳", 
+      "Sic Semper Tyrannis"
+    ],
+    "translator_credits":[
+      "Aytaç Korel Pehlivanoğlu - Nederlands",
+      "Federico Sironi - Italiano",
+      "Антонио Димески - македонски",
+      "5t1bium - Español",
+      "Rosetta Mohammad - عربي"
+    ],
+    "labels": {
+      "also_see": "その他にも読む/支持",
+      "share": "このページを共有",
+      "qr_code": "ウェッブサイトのＱＲコード:",
+      "translators": "翻訳者",
+      "show_sources": "文献を表示"
+    }
+  }

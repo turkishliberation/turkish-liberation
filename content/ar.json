@@ -1,0 +1,103 @@
+{
+  "title": "احتجاجات 19 مارس/آذار في تركيا",
+  "main": "قام النظام الأردوغاني الاستبدادي في تركيا باعتقال رئيس بلدية إسطنبول، أكرم إمام أوغلو، في 19 مارس 2025. إمام أوغلو هو سياسي ذو شعبية كبيرة من حزب المعارضة الرئيسي حزب الشعب الجمهوري، وكان مرشحهم المتوقع للرئاسة.",
+  "claims": [
+    {
+      "title": "وقد فاز الحزب المعارض في الإنتخابات المحلية",
+      "description": "وقد حصل حزب الشعب الجمهوري والأحزاب المعارضة الأخرى على أصوات أكثر من حزب العدالة والتنمية في الإنتخابات البلدية لعام 2024، مما مكن حزب الشعب الجمهوري من الدفع اتجاه إجراء انتخابات مبكرة مع إمام أوغلو كمرشح لهم. ويخطط حزب العدالة والتنمية لتقديم أردوغان كمرشح له، وهو ما يتعارض مع الدستور التركي.",
+      "sources": [
+        {
+          "text": "تقرير بي بي سي عن الإنتخابات المحلية",
+          "url": "https://www.bbc.co.uk/news/world-europe-68704375"
+        },
+        {
+          "text": "إمام أوغلو منافس أردوغان في الإنتخابات المحلية",
+          "url": "https://www.aljazeera.com/news/2025/3/24/jailed-imamoglu-elected-turkish-oppositions-presidential-candidate"
+        }
+      ]
+    },
+    {
+      "title": "القبض على إمام أوغلو",
+      "description": "اعتقلت الشرطة التركية إمام أوغلو بتهمة مساعدة الجماعات الإرهابية والإستخدام غير القانوني لموارد المدينة. لم تتمكن الحكومة من تقديم أي دليل أو شهود سوى'شهادات الشهود السرية'",
+      "sources": [
+        {
+          "text": "مقال لهيئة الإذاعة البريطانية حول اعتقال إمام أوغلو",
+          "url": "https://www.bbc.co.uk/news/articles/c0egjvj8vdro"
+        },
+        {
+          "text": "عدم المساواة في تطبيق القانون من قبل حزب العدالة والتنمية.",
+          "url": "https://theconversation.com/the-peculiar-turkish-corruption-issue-behind-istanbul-mayors-arrest-and-how-it-became-a-tool-of-political-oppression-252933"
+        },
+        {
+          "text": "أردوغان يقوّض منافسه",
+          "url": "https://www.the-independent.com/news/world/europe/recep-tayyip-erdogan-ekrem-imamoglu-istanbul-turkish-ankara-b2717913.html"
+        } 
+      ]
+    },
+    {
+      "title": "الحكومة تنحاز للإرهابيين",
+      "description": "لقد بدأ حزب العدالة والتنمية في التعاون مع حزب اليسار الأخضر المدعوم من الأكراد وزعيم حزب العمال الكردستاني أوجلان، مما يقوض موقفهم ضد إمام أوغلو ويخون ذكرى آلاف المدنيين الذين قتلوا على يد حزب العمال الكردستاني. في الوقت الذي يستعدون فيه للعفو عن زعيم حزب العمال الكردستاني في محاولة لتعزيز موقفهم بين الناخبين الأكراد. وقد أظهرت الشرطة والمدعون العامون المدعومون من الحكومة ردود فعل قاسية على المتظاهرين المناهضين لأردوغان، في حين يدافعون عن مقاتلي حزب العمال الكردستاني ويدعمونهم في تجمعات حزب اليسار الأخضر.",
+      "sources": [
+        {
+          "text": " قائمة المنظمات الإرهابية الأجنبية لوزارة الخارجية الأمريكية",
+          "url": "https://www.state.gov/foreign-terrorist-organizations/"
+        },
+        {
+          "text": "قائمة المنظمات الإرهابية الأجنبية لوزارة الاستخبارات الوطنية الأمريكية - حزب العمال الكردستاني",
+          "url": "https://www.dni.gov/nctc/ftos/pkk_fto.html"
+        },
+        {
+          "text": "حزب اليسار الأخضر يستعد للقاء أردوغان، ومد غصن الزيتون لزعيم الإرهابيين",
+          "url": "https://www.turkishminute.com/2025/03/12/pro-kurdish-party-delegation-to-meet-with-erdogan-after-ocalans-call22/"
+        },
+        {
+          "text": "الحكومة تسمح باحتفالات مؤيدة لحزب العمال الكردستاني وأوجلان في إسطنبول، وتحظر الإحتجاجات المناهضة للحكومة",
+          "url": "https://anfenglishmobile.com/news/newroz-celebration-in-istanbul-kicks-off-78536"
+        }        
+        
+      ]
+    },
+    {
+      "title": "فساد حزب العدالة والتنمية",
+      "description": "تورط حزب العدالة والتنمية في العديد من الفضائح على مدى السنوات الـ23 الماضية، حيث أساء استخدام الأموال الحكومية وتجاهل الدستور التركي.",
+      "sources": [
+        {
+          "text": "ضياع ما لا يقل عن 128 مليار دولار ",
+          "url": "https://sendika.org/2021/04/asking-where-the-missing-128-billion-dollars-from-the-treasury-is-considered-an-insult-to-the-president-in-turkey-614392"
+        },
+        {
+          "text": "حزب العدالة والتنمية مرتبط بمخطط غسيل الأموال",
+          "url": "https://foreignpolicy.com/2015/01/06/why-turkeys-mother-of-all-corruption-scandals-refuses-to-go-away/"
+        },
+        {
+          "text": "شركات مدعومة من أردوغان تدار بدون رقابة حكومية",
+          "url": "https://www.duvarenglish.com/the-gang-of-five-nepotism-corruption-and-tender-rigging-in-erdogans-turkey-news-56200"
+        }
+      ]
+    }
+  ],
+  "also_see": [
+    {
+      "text": "أخبار مقاطعة شركات حزب العدالة والتنمية",
+      "url": "https://www.turkishminute.com/2025/03/25/turkeys-opposition-targets-pro-govt-businesses-with-boycott4/"
+    }
+  ],
+  "slogan": [
+    "فلتحيا الجمهورية التركية", 
+    "Sic Semper Tyrannis"
+  ],
+  "translator_credits":[
+      "Aytaç Korel Pehlivanoğlu - Nederlands",
+      "Federico Sironi - Italiano",
+      "Антонио Димески - македонски",
+      "5t1bium - Español",
+      "Rosetta Mohammad - عربي"
+    ],
+  "labels": {
+    "also_see": "انظر أيضًا / ادعم أيضًا",
+    "share": "شارك هذه الصفحة",
+    "qr_code": "رمز الاستجابة السريعة لهذا الموقع",
+    "translators": "Translators",
+    "show_sources": "عرض المصادر"
+  }
+}

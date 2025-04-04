@@ -1,10 +1,10 @@
 {
-  "title": "The 19th of March Türkiye Protests",
-  "main": "The authoritarian Erdoganist regime in Türkiye has arrested the mayor of İstanbul, Ekrem İmamoğlu, on the 19th of March 2025. İmamoğlu is a highly popular politician of the mainline opposition party CHP and was their expected presidential candidate.",
+  "title": "Die Proteste in der Türkei am 19. März",
+  "main": "Das autoritäre Erdoğan-Regime in der Türkei hat am 19. März 2025 den Bürgermeister von Istanbul, Ekrem İmamoğlu, verhaften lassen. İmamoğlu ist ein äußerst beliebter Politiker der größten Oppositionspartei CHP und galt als ihr voraussichtlicher Präsidentschaftskandidat.",
   "claims": [
     {
-      "title": "The Opposition Party has won the local elections",
-      "description": "CHP and other opposition parties secured more votes than AKP in the 2024 mayoral elections, enabling CHP to push for early elections with İmamoğlu as their candidate. AKP is planning to present Erdogan as their candidate, which is against the Turkish Constitution.",
+      "title": "Die Oppositionspartei hat die Kommunalwahlen gewonnen",
+      "description": "Die CHP und andere Oppositionsparteien erhielten bei den Bürgermeisterwahlen 2024 mehr Stimmen als die AKP, was es der CHP ermöglicht hat, vorgezogene Wahlen mit İmamoğlu als Kandidaten anzustreben. Die AKP plant, Erdoğan erneut als Kandidaten aufzustellen, was gegen die türkische Verfassung verstößt.",
       "sources": [
         {
           "text": "BBC Report on local elections",
@@ -17,8 +17,8 @@
       ]
     },
     {
-      "title": "İmamoğlu Arrested",
-      "description": "Turkish police detained İmamoğlu on charges of aiding terrorist groups and unlawful use of city resources. The government has not been able to provide any proof or witnesses other than 'secret witness testimonies'",
+      "title": "İmamoğlu verhaftet",
+      "description": "Die türkische Polizei nahm İmamoğlu unter dem Vorwurf fest, Terrorgruppen unterstützt und städtische Ressourcen unrechtmäßig verwendet zu haben. Die Regierung konnte keine Beweise oder Zeugen vorlegen, außer sogenannten „geheimen Zeugenaussagen“.",
       "sources": [
         {
           "text": "BBC article on Imamoğlu's arrest",
@@ -35,8 +35,8 @@
       ]
     },
     {
-      "title": "Government Sides With Terrorists",
-      "description": "The AKP has begun cooperating with the Kurdish-backed DEM Party and PKK leader Öcalan, undermining their stance against İmamoğlu and betraying the memory of thousands of civilians killed by PKK. As they prepare to pardon PKK's leader in a bid to strengthen their position amongst kurdish voters. The government backed police and prosecutors have shown heavyhanded responses to the anti-Erdoganist protestors, while defending and supporting PKK militants in DEM Party rallies.",
+      "title": "Regierung unterstützt Terroristen",
+      "description": "Die AKP begann mit der kurdisch unterstützten DEM-Partei und dem PKK-Anführer Öcalan zu kooperieren, was ihre Haltung gegenüber İmamoğlu untergräbt und die Erinnerung an die Tausenden von PKK-Opfern missachtet. Die Regierung bereitet eine Begnadigung Öcalans vor, um ihre Stellung bei kurdischen Wählern zu stärken. Gleichzeitig reagieren Polizei und Staatsanwaltschaft, unterstützt von der Regierung, hart gegen Anti-Erdoğan-Demonstranten, während sie PKK-nahe Demonstranten bei DEM-Partei-Kundgebungen verteidigen und unterstützen.",
       "sources": [
         {
           "text": "US Department of State Foreign Terrorist Organisations List",
@@ -58,8 +58,8 @@
       ]
     },
     {
-      "title": "Corruption of AKP",
-      "description": "The AKP has been involved in numerous scandals over the past 23 years, misusing government funds and disregarding the Turkish constitution.",
+      "title": "Korruption der AKP",
+      "description": "Die AKP war in den letzten 23 Jahren in zahlreiche Skandale verwickelt, hat staatliche Gelder missbraucht und die türkische Verfassung missachtet.",
       "sources": [
         {
           "text": "At least 128 billion dollars lost",

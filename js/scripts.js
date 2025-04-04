@@ -6,7 +6,7 @@ function toggleSources(id) {
 
 function shareTo(platform) {
   const url = encodeURIComponent(window.location.href);
-  const text = encodeURIComponent("Check out this important page!");
+  const text = encodeURIComponent("Support the Turkish youth:");
   let shareUrl = "";
 
   switch (platform) {
@@ -65,9 +65,26 @@ function loadLanguage(lang) {
         alsoSeeList.appendChild(li);
       });
 
+      const translatorCredits = document.getElementById("translator-credits");
+      translatorCredits.innerHTML = "";
+      data.translator_credits.forEach((item) => {
+        const li = document.createElement("li");
+        const p = document.createElement("p");
+        p.textContent = item;
+        li.appendChild(p);
+        translatorCredits.appendChild(li);
+      });
+
+      const buttonLabels = document.querySelectorAll("button.source-button")
+      buttonLabels.forEach((btn) => 
+      {
+        btn.textContent = data.labels.show_sources;
+      });
+
       document.querySelector("#also-see h2").textContent = data.labels.also_see;
       document.querySelector("#share h2").textContent = data.labels.share;
       document.querySelector("#qr-code p").textContent = data.labels.qr_code
+      document.querySelector("#translators h2").textContent = data.labels.translators
 
       const sloganEl = document.querySelector(".slogan-text");
       if (sloganEl && data.slogan) {

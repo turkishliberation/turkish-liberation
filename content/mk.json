@@ -1,0 +1,103 @@
+{
+    "title": "Протести во Турција на 19-ти март",
+    "main": "Авторитарниот ердоганистички режим во Турција го уапси градоначалникот на Истанбул, Екрем Имамоглу, на 19-ти март 2025 година. Имамоглу е многу популарен политичар од главната опозициска партија ЦХП (Републиканска народна партија) и беше очекуван нивен претседателски кандидат.",
+    "claims": [
+      {
+        "title": "Опозициската партија ги доби локалните избори",
+        "description": "ЦХП (Републиканска народна партија) и другите опозициски партии освоија повеќе гласови од АКП (Партија за правда и развој) на општинските избори во 2024 година, што им овозможи на ЦХП (Републиканска народна партија) да се залагаат за предвремени избори со Имамоглу како нивен кандидат. АКП (Партија за правда и развој) планира да го кандидира Ердоган, што е противуставно според Турскиот устав.",
+        "sources": [
+          {
+            "text": "BBC Report on local elections",
+            "url": "https://www.bbc.co.uk/news/world-europe-68704375"
+          },
+          {
+            "text": "İmamoğlu is Erdogan's election rival",
+            "url": "https://www.aljazeera.com/news/2025/3/24/jailed-imamoglu-elected-turkish-oppositions-presidential-candidate"
+          }
+        ]
+      },
+      {
+        "title": "Апсењето на Имамоглу",
+        "description": "Турската полиција го притвори Имамоглу под обвинение за помагање на терористички групи и незаконска употреба на градските ресурси. Владата не успеа да обезбеди никакви докази или сведоци освен 'сведочења од тајни сведоци'",
+        "sources": [
+          {
+            "text": "BBC article on Imamoğlu's arrest",
+            "url": "https://www.bbc.co.uk/news/articles/c0egjvj8vdro"
+          },
+          {
+            "text": "The inequal application of law by AKP",
+            "url": "https://theconversation.com/the-peculiar-turkish-corruption-issue-behind-istanbul-mayors-arrest-and-how-it-became-a-tool-of-political-oppression-252933"
+          },
+          {
+            "text": "Erdogan undermines his rival",
+            "url": "https://www.the-independent.com/news/world/europe/recep-tayyip-erdogan-ekrem-imamoglu-istanbul-turkish-ankara-b2717913.html"
+          } 
+        ]
+      },
+      {
+        "title": "Владата застанува на страната на терористите",
+        "description": "АКП (Партија за правда и развој) започна соработка со курдски поддржаната ДЕМ (Партија за демократија и еднаквост) и со лидерот на ПКК (Работничка партија на Курдистан), поткопувајќи ја својата позиција против Имамоглу и предавајќи го споменот на илјадниците цивили убиени од ПКК (Работничка партија на Курдистан). Тие се подготвуваат да му дадат помилување на лидерот на ПКК (Работничка партија на Курдистан) во обид да ја зајакнат својата поддршка меѓу курдските гласачи. Владата поддржаната полиција и обвинителите жестоко реагираат против анти-ердоганистичките протестанти, додека ги бранат и поддржуваат милитантите на ПКК (Работничка партија на Курдистан) на митинзите на ДЕМ (Партија за демократија и еднаквост).",
+        "sources": [
+          {
+            "text": "US Department of State Foreign Terrorist Organisations List",
+            "url": "https://www.state.gov/foreign-terrorist-organizations/"
+          },
+          {
+            "text": "US Department of National Intelligence Foreign Terrorist Organisations List - PKK",
+            "url": "https://www.dni.gov/nctc/ftos/pkk_fto.html"
+          },
+          {
+            "text": "DEM Party prepares to meet with Erdogan, olive branch extended to terrorist leader",
+            "url": "https://www.turkishminute.com/2025/03/12/pro-kurdish-party-delegation-to-meet-with-erdogan-after-ocalans-call22/"
+          },
+          {
+            "text": "Government allows Pro-PKK and Pro-Ocalan celebrations in İstanbul, bans anti government protests",
+            "url": "https://anfenglishmobile.com/news/newroz-celebration-in-istanbul-kicks-off-78536"
+          }        
+          
+        ]
+      },
+      {
+        "title": "Корупцијата на АКП",
+        "description": " АКП (Партија за правда и развој) е вмешана во бројни скандали во изминатите 23 години, злоупотребувајќи државни средства и игнорирајќи го Турскиот устав.",
+        "sources": [
+          {
+            "text": "At least 128 billion dollars lost",
+            "url": "https://sendika.org/2021/04/asking-where-the-missing-128-billion-dollars-from-the-treasury-is-considered-an-insult-to-the-president-in-turkey-614392"
+          },
+          {
+            "text": "AKP connected to money laundering scheme",
+            "url": "https://foreignpolicy.com/2015/01/06/why-turkeys-mother-of-all-corruption-scandals-refuses-to-go-away/"
+          },
+          {
+            "text": "Erdogan backed companies run without government oversight",
+            "url": "https://www.duvarenglish.com/the-gang-of-five-nepotism-corruption-and-tender-rigging-in-erdogans-turkey-news-56200"
+          }
+        ]
+      }
+    ],
+    "also_see": [
+      {
+        "text": "Вести за бојкотирање на бизнисите на АКП",
+        "url": "https://www.turkishminute.com/2025/03/25/turkeys-opposition-targets-pro-govt-businesses-with-boycott4/"
+      }
+    ],
+    "slogan": [
+      "Да живее долго Турската Република", 
+      "Sic Semper Tyrannis"
+    ],
+    "translator_credits":[
+        "Aytaç Korel Pehlivanoğlu - Nederlands",
+        "Federico Sironi - Italiano",
+        "Антонио Димески - македонски",
+        "5t1bium - Español",
+        "Rosetta Mohammad - عربي"
+      ],
+    "labels": {
+      "also_see": "Исто така види / Исто така поддржи",
+      "share": "Сподели ја оваа страница",
+      "qr_code": "QR код за оваа веб-страница:",
+      "translators": "Преведувачи",
+      "show_sources": "Прикажи извори"
+    }
+  }

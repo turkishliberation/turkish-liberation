@@ -10,10 +10,49 @@
 <body>
   <div class="language-select">
     <button onclick="setLanguage('tr')" aria-label="Türkçe">
-      <img src="images/tr.png" alt="Türkçe" width="80" height="45" />
+      <img src="images/tr.png" alt="Türkçe" width="50" height="35" />
     </button>
     <button onclick="setLanguage('en')" aria-label="English">
-      <img src="images/en.png" alt="English" width="80" height="45" />
+      <img src="images/en.png" alt="English" width="50" height="35" />
+    </button>
+    <button onclick="setLanguage('nl')" aria-label="Dutch">
+      <img src="images/nl.png" alt="Dutch" width="50" height="35" />
+    </button>
+    <button onclick="setLanguage('jp')" aria-label="日本語">
+      <img src="images/jp.png" alt="日本語" width="50" height="35" />
+    </button>
+    <button onclick="setLanguage('gr')" aria-label="Έλληνικά">
+      <img src="images/gr.png" alt="Έλληνικά" width="50" height="35" />
+    </button>
+    <button onclick="setLanguage('it')" aria-label="Italiano">
+      <img src="images/it.png" alt="Italiano" width="50" height="35" />
+    </button>
+    <button onclick="setLanguage('fr')" aria-label="Français">
+      <img src="images/fr.png" alt="Français" width="50" height="35" />
+    </button>
+    <button onclick="setLanguage('ar')" aria-label="Arabic">
+      <img src="images/ar.png" alt="Arabic" width="50" height="35" />
+    </button>
+    <button onclick="setLanguage('fa')" aria-label="Farsi">
+      <img src="images/fa.png" alt="Farsi" width="50" height="35" />
+    </button>
+    <button onclick="setLanguage('de')" aria-label="Deutsch">
+      <img src="images/de.png" alt="Deutsch" width="50" height="35" />
+    </button>
+    <button onclick="setLanguage('he')" aria-label="Hebrew">
+      <img src="images/he.png" alt="Hebrew" width="50" height="35" />
+    </button>
+    <button onclick="setLanguage('es')" aria-label="Espanol">
+      <img src="images/es.png" alt="Espanol" width="50" height="35" />
+    </button>
+    <button onclick="setLanguage('pt')" aria-label="Português">
+      <img src="images/pt.png" alt="Português" width="50" height="35" />
+    </button>
+    <button onclick="setLanguage('mk')" aria-label="Macedonian">
+      <img src="images/mk.png" alt="Macedonian" width="50" height="35" />
+    </button>
+    <button onclick="setLanguage('ru')" aria-label="Russian">
+      <img src="images/ru.png" alt="Russian" width="50" height="35" />
     </button>
   </div>
 
@@ -26,7 +65,7 @@
     <article id="claim-1">
       <h2></h2>
       <p></p>
-      <button class="source-button" onclick="toggleSources('sources-1')">Show Sources</button>
+      <button id="show-sources" class="source-button" onclick="toggleSources('sources-1')">Show Sources</button>
       <div id="sources-1" class="source-list source-section">
         <ul>
           <li><a href="#">Source 1</a></li>
@@ -37,7 +76,7 @@
     <article id="claim-2">
       <h2></h2>
       <p></p>
-      <button class="source-button" onclick="toggleSources('sources-2')">Show Sources</button>
+      <button id="show-sources" class="source-button" onclick="toggleSources('sources-2')">Show Sources</button>
       <div id="sources-2" class="source-list source-section">
         <ul>
           <li><a href="#">Source A</a></li>
@@ -48,7 +87,7 @@
     <article id="claim-3">
       <h2></h2>
       <p></p>
-      <button class="source-button" onclick="toggleSources('sources-3')">Show Sources</button>
+      <button id="show-sources" class="source-button" onclick="toggleSources('sources-3')">Show Sources</button>
       <div id="sources-3" class="source-list source-section">
         <ul>
           <li><a href="#">Source A</a></li>
@@ -59,7 +98,7 @@
     <article id="claim-4">
       <h2></h2>
       <p></p>
-      <button class="source-button" onclick="toggleSources('sources-4')">Show Sources</button>
+      <button id="show-sources" class="source-button" onclick="toggleSources('sources-4')">Show Sources</button>
       <div id="sources-4" class="source-list source-section">
         <ul>
           <li><a href="#">Source A</a></li>
@@ -87,6 +126,10 @@
       <p>QR code for this website:</p>
       <img src="" alt="QR Code" />
     </div>
+  </section>
+  <section id="translators">
+    <h2>Translators</h2>
+    <ul id="translator-credits"></ul>
   </section>
   <script src="js/scripts.js"></script>
 </body>
